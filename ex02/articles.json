@@ -4,27 +4,28 @@
     "Titre": "article 1",
     "Texte": "texte1",
     "Auteur": "auteur1",
-    "Date": "2016-10-28"
+    "date": "2014-10-28"
   },
   {
     "id": "5bda147613c5b",
     "Titre": "article 2",
     "Texte": "texte2",
     "Auteur": "auteur2",
-    "Date": "2015-10-29"
+    "date": "2015-10-29"
   },
   {
     "id": "5bda148540a97",
     "Titre": "article 3",
     "Texte": "texte3",
     "Auteur": "auteur3",
-    "Date": "1994-10-29"
+    "date": "1994-10-29"
   },
   {
     "id": "5bda14c122d51",
     "Titre": "article 4",
     "Texte": "texte4",
     "Auteur": "auteur4",
-    "Date": "2019-10-04"
+    "date": "2019-10-04"
   }
 ]
+{"id":"5bda252e708fb","Titre":"","Texte":"","Auteur":"","date":"2018-10-10"}

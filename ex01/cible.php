@@ -7,9 +7,8 @@ $article=array(
     "Date" => $_POST['date'] ,
 );
 
-$articleJson=json_encode($article);
-echo $articleJson;
-
+$articleJson=[json_encode($article)];
+$articleJson=implode($articleJson, " ");
 $fichierjson=fopen('articles.json', 'a+');
 fputs($fichierjson, $articleJson);
 fclose($fichierjson);
